@@ -1,6 +1,6 @@
 # 💻 Hey, soy Cristian! 🚀
 
-![Banner](https://your-banner-image-url.com) <!-- Puedes agregar una imagen llamativa aquí -->
+![BANNER GITHUB](https://github.com/user-attachments/assets/16171ffc-b93d-4358-86c5-3600f3c6dea5)
 
 ## 📌 Sobre mí  
 🙋‍♂️ Apasionado por la tecnología y el desarrollo de software.  
@@ -14,11 +14,12 @@
 - Automatización y Sistemas Embebidos ⚙️  
 
 📩 **Contáctame:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuperfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/tuusuario)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-eduardo-casta%C3%B1eda-p%C3%A9rez/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/CristianCastax)    
 
 ---
+
+## 🔥 Tecnologías y herramientas  
 
 ## 🔥 Tecnologías y herramientas  
 
@@ -27,9 +28,14 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-🔧 **También trabajo con:** Docker, Scrum, Git, Bluetooth HC-05, y más.
+
+🔧 **También trabajo con:** Docker, Scrum, Git, y más.
 
 ---
 
@@ -50,9 +56,6 @@
 
 ## 🚀 Proyectos Destacados  
 
-🎯 **[Fivision AI](https://github.com/tuusuario/fivision-ai)** - Visión artificial para entrenamientos en gimnasio 🏋️‍♂️  
-🚗 **[Control de Auto por Bluetooth](https://github.com/tuusuario/car-bluetooth-control)** - App Android para manejar un coche con HC-05  
-🏡 **[HomeLand](https://github.com/tuusuario/homeland)** - Sitio web para encontrar casas en venta/renta  
 
 ---
 
